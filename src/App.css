@@ -1,0 +1,13 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body{
+  background: #ffffff !important;
+}
+
+main {
+  flex: 1;
+}
